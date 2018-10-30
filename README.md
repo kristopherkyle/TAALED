@@ -1,5 +1,5 @@
 # The Tool for the Automatic Analysis of Lexical Diversity (TAALED) 1.3.1
-This tool was developed by Kristopher Kyle in collaboration with Scott Crossley and Scott Jarvis
+This tool was developed by Kristopher Kyle in collaboration with Scott Crossley and Scott Jarvis.
 See https://www.linguisticanalysistools.org/taaled.html for more information.
 
 # Quick Start Guide
